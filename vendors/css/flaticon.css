@@ -1,0 +1,55 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 14/06/2018 00:49
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-open-book-1:before { content: "\f100"; }
+.flaticon-food-and-restaurant:before { content: "\f101"; }
+.flaticon-open-book:before { content: "\f102"; }
+.flaticon-book:before { content: "\f103"; }
+.flaticon-study:before { content: "\f104"; }
+.flaticon-flag:before { content: "\f105"; }
+.flaticon-stretching-exercises:before { content: "\f106"; }
+.flaticon-climb:before { content: "\f107"; }
+.flaticon-mountains:before { content: "\f108"; }
+.flaticon-plus-black-symbol:before { content: "\f109"; }
+.flaticon-help:before { content: "\f10a"; }
+.flaticon-meditation-yoga-posture:before { content: "\f10b"; }
+.flaticon-man-practicing-yoga-posture:before { content: "\f10c"; }
+.flaticon-hinduist-yoga-position:before { content: "\f10d"; }
+.flaticon-heart:before { content: "\f10e"; }
+.flaticon-favorite-heart-button:before { content: "\f10f"; }
+.flaticon-praying:before { content: "\f110"; }
+.flaticon-masks:before { content: "\f111"; }
+.flaticon-cow:before { content: "\f112"; }
+.flaticon-paw-print:before { content: "\f113"; }
+.flaticon-guitar:before { content: "\f114"; }
+.flaticon-acoustic-guitar:before { content: "\f115"; }
+.flaticon-electric-guitar:before { content: "\f116"; }
+.flaticon-classic-guitar:before { content: "\f117"; }
